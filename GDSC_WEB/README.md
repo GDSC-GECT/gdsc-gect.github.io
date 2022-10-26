@@ -2,5 +2,5 @@
 
 #This is the official website of GDSC GECT
 CONTRIBUTORS:
-~~~ sreni saji
-~~~ aron simon
+~~~ sreni saji ~~~
+~~~ aron simon ~~~
