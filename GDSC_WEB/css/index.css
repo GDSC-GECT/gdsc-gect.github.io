@@ -670,7 +670,7 @@ input:focus{
     .main-image{
         top: 50vh;
         transform:translateY(0%);
-        float: left;
+        float: none;
         padding-left:10vw;
         height: 300px;
     }
@@ -726,14 +726,16 @@ input:focus{
         top: 15%;
         transform:translateY(0%);
         width:80%;
+        text-align: center;
     }
 
     .main-image{
         top: 50vh;
         transform:translateY(0%);
-        float: left;
         padding-left:10vw;
+        float: none;
         height: 250px;
+        margin-left: 8rem;
     }
 
     .main-menu-image{
@@ -794,6 +796,7 @@ input:focus{
         float: left;
         padding-left:10vw;
         height: 250px;
+        margin-left: 4.5rem;
     }
 
     .main-menu-image{

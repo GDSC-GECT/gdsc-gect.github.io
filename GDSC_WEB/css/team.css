@@ -53,6 +53,8 @@
         max-height: 300px;
     }
 
+   
+
     .icons-expanded{
         transition: all .6s ease;
         max-height: unset;
@@ -66,7 +68,9 @@
     .main-image{
         top: 30vh;
     }
-
+    .main{
+        text-align: center;
+    }
     .icons{
         max-height: 300px;
     }
@@ -84,7 +88,6 @@
     .main-image{
         top: 30vh;
         transform:translateY(0%);
-        float: left;
         padding-left:10vw;
         height: 250px;
     }
