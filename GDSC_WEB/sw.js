@@ -1,4 +1,4 @@
-// var cacheName = 'dscvit';
+
 var self = this;
 
 var filesToCache = [
