@@ -22,18 +22,18 @@ html{
 }
 
 .logo{
-    width:400px;
+    width:300px;
 }
 .logo-light{
-    width:400px;
+    width:300px;
 }
 .logo-nav {
-    width:250px;
+    width:95%;
     margin-top: 13px;
     margin-left: 0px !important;
 }
 .logo-nav-light{
-    width:250px;
+    width:95%;
     margin-top: 13px;
     margin-left: 0px !important;
 }
