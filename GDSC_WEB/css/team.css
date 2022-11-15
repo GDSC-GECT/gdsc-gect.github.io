@@ -17,8 +17,13 @@
     display: inline-block;
 }
 
+.gdsc-img{
+    width: 150px;
+    height: 59px;
+}
+
 .icons{
-    max-height: 300px;
+    max-height: 320px;
     overflow: hidden;
     margin-bottom: 20px;
     transition: all .6s ease;
@@ -37,6 +42,13 @@
 
 .circle-icon-holder{
     min-height: 300px;
+}
+
+.rounded-circle{
+    width: 12rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Portrait tablets and small desktops */
